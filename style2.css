@@ -1,0 +1,39 @@
+#title {
+  color: black;
+  border-radius: 45px;
+  font-family: "Courier New", Courier, monospace;
+}
+#subtitle {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+.nav {
+  text-align: center;
+  text-decoration: black;
+  text-size-adjust: 200px;
+}
+
+main {
+  background-color: #fceeeb;
+}
+
+header {
+  background-color: #b9b9b9;
+}
+
+footer {
+  background-color: #b9b9b9;
+}
+.box {
+  background-color: #b9b9b9;
+}
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#image {
+  display: flex;
+  justify-content: flex-start;
+}
